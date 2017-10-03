@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "79555695301",
+    "project_id": "nerd30-ca72a"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:79555695301:android:7ad7aaab67027b28",
+        "android_client_info": {
+          "package_name": "com.mateo_velez.app_final"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "79555695301-en8ea0so369a9s8u63v4tergrhojaovc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mateo_velez.app_final",
+            "certificate_hash": "49579d10c4f95464fec91df11a175cc4922fbc37"
+          }
+        },
+        {
+          "client_id": "79555695301-gf8kslnakm09jkuuugpu6qc67iuf3ptl.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1dPNPnFaJkFwTbdw5aN5Z5b2Tf9viHP4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
